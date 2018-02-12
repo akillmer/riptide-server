@@ -27,4 +27,4 @@ After `riptide` has bootstrapped it sends all of its logging to `./riptide.log`.
   + Setting seed ratios that supercede the global ratio.
   + Using regular expressions to further organize downloaded torrents.
 
-Be sure to check out my frontend React app over at [akillmer/riptide-app](https://github.com/akillmer/riptide-app).
+Be sure to check out my frontend React app over at [akillmer/riptide-client](https://github.com/akillmer/riptide-client).
