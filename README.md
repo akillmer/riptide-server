@@ -1,5 +1,5 @@
 # riptide server
-`riptide` manages torrents with the [anacrolix/torrent](https://github.com/anacrolix/torrent) package. It exposes a WebSocket service for the frontend and can act as a static file server for the [frontend app](https://github.com/akillmer/riptide-app).
+`riptide` manages torrents with the [anacrolix/torrent](https://github.com/anacrolix/torrent) package. It exposes a WebSocket service for the frontend and can act as a static file server for the [frontend app](https://github.com/akillmer/riptide-client).
 
 ## Usage
 Be sure to `go get github.com/akillmer/riptide-server` and then simply `go build`. Personally, I just keep the binary where my heart is.
